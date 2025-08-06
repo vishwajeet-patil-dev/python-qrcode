@@ -28,7 +28,7 @@ def QRSave(**kwargs):
 
     draw        = ImageDraw.Draw(background)
 
-    MRPfont     = ImageFont.truetype("Saira-Bold.ttf",7) #12
+    # MRPfont     = ImageFont.truetype("Saira-Bold.ttf",7) #12
     Productfont = ImageFont.truetype("Saira-Bold.ttf",11)#18
     SPPricefont = ImageFont.truetype("Saira-Bold.ttf",12)#22
     productcodefont  = ImageFont.truetype("Saira-Bold.ttf",8)#12
